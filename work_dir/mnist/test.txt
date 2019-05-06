@@ -1,0 +1,7 @@
+Epoch 5678, Test Evaluation: prec1 97.4300, prec5 100.0000
+[ Mon May  6 15:20:44 2019 ] Epoch 5678, Test Evaluation: prec1 97.4300, prec5 100.0000
+[ Mon May  6 15:32:07 2019 ] Epoch 5678, Test Evaluation: prec1 97.6000, prec5 100.0000
+[ Mon May  6 16:57:10 2019 ] Epoch 10, Test Evaluation: prec1 98.9500, prec5 100.0000
+[ Mon May  6 16:59:07 2019 ] Epoch 10, Test Evaluation: prec1 98.9500, prec5 100.0000
+[ Mon May  6 17:01:20 2019 ] Epoch 10, Test Evaluation: prec1 98.9500, prec5 100.0000
+[ Mon May  6 21:26:55 2019 ] Epoch 10, Test Evaluation: prec1 98.9500, prec5 100.0000

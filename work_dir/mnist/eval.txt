@@ -1,0 +1,20 @@
+test - epoch: 5, prec1: 97.5999984741211, prec5: 100.0
+test - epoch: 10, prec1: 98.95999908447266, prec5: 100.0
+test - epoch: 5, prec1: 97.43000030517578, prec5: 100.0
+[ Mon May  6 15:29:35 2019 ] Epoch 5, Test Evaluation: prec1 97.6000, prec5 100.0000
+[ Mon May  6 15:30:24 2019 ] Epoch 10, Test Evaluation: prec1 98.9600, prec5 100.0000
+[ Mon May  6 15:39:59 2019 ] Epoch 5, Test Evaluation: prec1 97.3600, prec5 99.9800
+[ Mon May  6 15:41:49 2019 ] Epoch 10, Test Evaluation: prec1 98.9700, prec5 100.0000
+[ Mon May  6 15:49:38 2019 ] Epoch 5, Test Evaluation: prec1 96.4300, prec5 99.9700
+[ Mon May  6 16:08:23 2019 ] Epoch 1, Test Evaluation: prec1 96.9200, prec5 99.9600
+[ Mon May  6 16:08:35 2019 ] Epoch 2, Test Evaluation: prec1 97.0200, prec5 99.9900
+[ Mon May  6 16:09:35 2019 ] Epoch 2, Test Evaluation: prec1 97.4800, prec5 99.9600
+[ Mon May  6 16:11:45 2019 ] Epoch 1, Test Evaluation: prec1 96.9200, prec5 99.9600
+[ Mon May  6 16:11:58 2019 ] Epoch 2, Test Evaluation: prec1 97.0200, prec5 99.9900
+[ Mon May  6 16:12:10 2019 ] Epoch 3, Test Evaluation: prec1 96.8000, prec5 99.9500
+[ Mon May  6 16:12:41 2019 ] Epoch 2, Test Evaluation: prec1 97.4800, prec5 99.9600
+[ Mon May  6 16:16:38 2019 ] Epoch 1, Test Evaluation: prec1 96.9200, prec5 99.9600
+[ Mon May  6 16:16:50 2019 ] Epoch 2, Test Evaluation: prec1 97.0200, prec5 99.9900
+[ Mon May  6 16:17:02 2019 ] Epoch 3, Test Evaluation: prec1 96.8000, prec5 99.9500
+[ Mon May  6 16:22:31 2019 ] Epoch 1, Test Evaluation: prec1 97.1200, prec5 99.9700
+[ Mon May  6 16:22:46 2019 ] Epoch 2, Test Evaluation: prec1 96.9500, prec5 99.9800
